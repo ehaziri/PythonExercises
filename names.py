@@ -30,7 +30,7 @@ for key, data in users.items():
     print key
     i = 1
     for value in data:
-            fn = value["first_name"]
+            fn = value["first_name"] # I like how you are separating everything out individually and piecing it back together!
             fn_len = len(fn)
             ln = value["last_name"]
             ln_len = len(ln)
