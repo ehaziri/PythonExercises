@@ -13,3 +13,5 @@ for i in range(0,10):
         print("Score: ", piket ,"; Your grade is A.")
     else:
         print("Piket e shenuara duhet te jene ne intervalin [60,100]")
+
+#Great job Egezone!
